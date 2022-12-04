@@ -34,12 +34,12 @@
 - :computer: I'm a Python backend developer at Nokia.
 - :earth_africa: I live in Oulu, Finland.
 
-- :mag: My main knowledge lies in Python (pure Python, Django and API libraries such as Elasticsearch and Redis), Linux, Docker, ELKB stack, Redis and GitLab.  
+- :mag: My main knowledge lies in `Python` (pure `Python`, `Django` and API libraries such as `Elasticsearch` and `Redis`), `Linux`, `Docker`, `ELKB stack`, `Redis` and `GitLab`.  
 
 - :page_with_curl: Next on my to-learn list:
-  - More frontend stuff such as React, Next.js and Tailwind.
-  - More about Node.js backends
-  - Cloud infrastructure stuff, especially AWS and Terraform. 
+  - More frontend stuff such as `React`, `Next.js` and `Tailwind CSS`.
+  - More about `Node.js` backends
+  - Cloud infrastructure stuff, especially `AWS` and `Terraform`. 
   - [Full Stack Open](https://fullstackopen.com/) is a never-ending project for me, and it teaches some of the stuff mentioned above pretty well. 
 
 - :clock4: On my free time I enjoy bouldering and racket sports.
