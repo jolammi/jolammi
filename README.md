@@ -31,7 +31,7 @@
 ## About me 
 
 - :man: Pronouns: He/Him
-- :computer: I'm a Python backend developer at Nokia.
+- :computer: I'm a `Python` backend developer at Nokia.
 - :earth_africa: I live in Oulu, Finland.
 
 - :mag: My main knowledge lies in `Python` (pure `Python`, `Django` and API libraries such as `Elasticsearch` and `Redis`), `Linux`, `Docker`, `ELKB stack`, `Redis` and `GitLab`.  
