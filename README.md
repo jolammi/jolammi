@@ -43,7 +43,7 @@
   - [Full Stack Open](https://fullstackopen.com/) is a never-ending project for me, and it teaches some of the stuff mentioned above pretty well. 
 
 - :clock4: On my free time I enjoy bouldering and racket sports.
-  - I also have way too many side projects and a Master's thesis in progress.  
+  - I also have way too many unfinished side projects and a Master's thesis to do.  
   
 <br>
 :hourglass_flowing_sand: So yeah, I don't think I don't have problems with what to do on my freetime. Does anyone know how to buy more hours into days?
