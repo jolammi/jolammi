@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Jouni Lammi!</h1>
 <div align=center>
     <a href="https://jolammi.me">
-        <img height="32" width="32" src="https://jolammi.me/static/favicon-32x32.png" alt="jolammi.me favico"/>
+        <img height="32" width="32" src="https://jolammi.me/favicon-32x32.png" alt="jolammi.me favico"/>
     </a>
     <span>&nbsp&nbsp&nbsp&nbsp</span>
     <a href="https://www.linkedin.com/in/jolammi/">
