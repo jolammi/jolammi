@@ -14,10 +14,6 @@
         <img height="32" width="32" src="https://cdn.simpleicons.org/stackoverflow/F58025" alt="Stack Overflow logo"/>
     </a>
     <span>&nbsp&nbsp&nbsp&nbsp</span>
-    <a href="https://twitter.com/jolammi">
-        <img height="32" width="32" src="https://cdn.simpleicons.org/twitter/1DA1F2" alt="Twitter logo"/>
-    </a>
-    <span>&nbsp&nbsp&nbsp&nbsp</span>
     <a href="https://www.reddit.com/user/jolammi">
         <img height="32" width="32" src="https://cdn.simpleicons.org/reddit/FF4500" alt="Reddit logo"/>
     </a>
